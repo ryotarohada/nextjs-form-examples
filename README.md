@@ -1,4 +1,4 @@
-# server-component-form-example
+# nextjs-form-examples
 
 Repository to implement an example of form implementation in the server component of Next.js.
 
